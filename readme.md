@@ -21,3 +21,11 @@
 	<li>maps add layers: http://pietervogelaar.nl/google-maps-api-v3-traffic-toggle-button/#.UQatq2dZ98E</li>
 	<li>maps layers: https://developers.google.com/maps/documentation/javascript/layers</li>
 </ul>
+
+<h2>licence</h2>
+
+<p>The software can be used free of charge for both non-commercial and 
+	commercial projects. The software is licenced with The GNU Lesser 
+	General Public License, version 2.1 (LGPL-2.1)</p>
+
+<a href="http://www.opensource.org/licenses/lgpl-2.1">http://www.opensource.org/licenses/lgpl-2.1</a>
