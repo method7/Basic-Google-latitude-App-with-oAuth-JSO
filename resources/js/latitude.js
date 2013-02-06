@@ -273,14 +273,13 @@
 			// Add configuration for one or more providers.
 			jso_configure({
 				"google": {
-					client_id: "592724387191-11c780839aqbk2575mrufj6kgi3i0ksl.apps.googleusercontent.com",
-					redirect_uri: "http://localhost/latitude",
+					client_id: "*** YOUR CLIENT ID ***",
+					redirect_uri: "*** YOUR REDIRECT - http://localhost ***",
 					authorization: "https://accounts.google.com/o/oauth2/auth"
 				}/*,
 				"instagram": {
-					// client secret: c3618a9feef9488a8693e127573bcd29
-					client_id: "8593908dfd074e38804c4942fb368721",
-					redirect_uri: "http://localhost/latitude",
+					client_id: "*** YOUR CLIENT ID ***,
+					redirect_uri: "*** YOUR REDIRECT - http://localhost ***,
 					authorization: "https://instagram.com/oauth/authorize/",
 					scope: ["basic", "likes"],
 					isDefault: true
